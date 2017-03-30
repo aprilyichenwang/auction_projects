@@ -2,7 +2,8 @@
 this project explores different types of auctions, including outcry and sealed bid, best strategy based on the 1st and 2nd price auction
 
 Auction_SB_OO.py
-Learn about auctions to build a competitive bid function that at- tempts to maximize your revenue
+
+1) Learn about auctions to build a competitive bid function that at- tempts to maximize your revenue
 
 • build a bidding function, and then simulate a number of di↵erent situations. 
 • Price format: 1st price auction & 2nd price auction
